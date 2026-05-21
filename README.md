@@ -1,6 +1,6 @@
-# yungi0816 Community Defaults
+# yun-dev-cmd Community Defaults
 
-This repository contains default community health files for projects under `yungi0816`.
+This repository contains default community health files for projects under `yun-dev-cmd`.
 
 GitHub uses these files as fallbacks for repositories that do not define their own contribution guides, pull request templates, issue templates, support notes, security policy, or code of conduct.
 
